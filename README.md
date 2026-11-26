@@ -10,9 +10,15 @@ Android 原生的环境音与声景应用。**220 条音源、15 个声景域、
 
 ## 下载
 
-[**⬇ 下载最新版 APK**](https://github.com/fyworld/sleepsound/releases/latest) · Android 8.0+ · 约 320 MB
+**Android 8.0+ · 约 320 MB**
 
-官网：[sleepsound.cn](https://sleepsound.cn)（国内直连，GitHub 慢的时候走这里）
+| 通道 | 链接 | 说明 |
+|---|---|---|
+| **国内加速**（推荐） | [下载 SleepSound-v0.23.4-paid.apk](https://gh-proxy.com/https://github.com/fyworld/sleepsound/releases/download/v0.23.4/SleepSound-v0.23.4-paid.apk) | 第三方加速节点，支持断点续传 |
+| GitHub | [releases/latest](https://github.com/fyworld/sleepsound/releases/latest) | 官方地址，国内速度看线路 |
+| 官网 | [sleepsound.cn](https://sleepsound.cn) | 自家服务器，约 300 KB/s |
+
+> 加速链接由第三方公益服务 gh-proxy 提供，节点失效时改用 GitHub 直连或官网。链接中的版本号随发版更新，当前为 `v0.23.4`。
 
 > APK 约 320 MB，因为 220 条音源是原始码率打进包里的（AAC 96 kbps 立体声 44.1 kHz），没有为了体积降质。建议 Wi-Fi 下载。
 
